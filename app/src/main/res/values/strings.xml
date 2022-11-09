@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DarkTheme</string>
+    <string name="change_theme">Change theme</string>
+    <string name="select_theme">Select your preferred theme</string>
+    <string name="light_theme">Light Theme</string>
+    <string name="dark_theme">Dark theme</string>
+    <string name="device_theme">Device Theme</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="strDetail">
+        There are many mobile operating systems which support themes as standard, such as Nokia phones powered by Symbian, Sony Ericsson and Blackberry. Although Google Android operating system doesn support themes as standard, there are applications that provide it; aftermarket Android distributions such as CyanogenMod (and its successor LineageOS) along with vendor-specific implementations do offer their own theme engines.A theme package contains graphics for one or many changeable components of a mobile phone UI. Changing a theme only affects the look and feel of the UI and not the entire phone functions or features.A Theme defines the look and feel of the application, including what layouts are used for the screens, the global stylesheet used, and also the grid definitions used to position and size elements on the screen.You develop apps in Service Studio, the main IDE in OutSystems. A new app usually contains one module with a user interface, and you can use that module to start building your app.
+    </string>
+</resources>
